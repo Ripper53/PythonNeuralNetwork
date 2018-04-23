@@ -15,4 +15,5 @@ Such as activation functions and functions to calculate loss.
 Add more activation or loss functions here and pass them in the parameters of the class NeuralNetwork to use them.
 
 The min and max in the parameters of the NeuralNetwork class are the random range the values can take.
-The neural network is fully connected.
+
+The training algorithm uses backpropogation to learn, the neural network is fully connected.
